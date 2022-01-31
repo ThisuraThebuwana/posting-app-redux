@@ -1,0 +1,13 @@
+*:focus {
+    outline: none !important;
+}
+
+body {
+    background-color: lightgray;
+}
+
+@media only screen and (min-width: 600px) {
+    .midSection {
+        min-width: 500px;
+    }
+  }
